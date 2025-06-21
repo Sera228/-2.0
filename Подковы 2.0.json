@@ -1,0 +1,9 @@
+{
+  "name": "Подковы Забвенного Рысака",
+  "id": "horseshoes-artifact",
+  "type": "app",
+  "version": "1.0",
+  "icon": "icon.png",
+  "html": "Подковы 2.0.html",
+  "description": "Интерактивная карточка артефакта для D&D"
+}
